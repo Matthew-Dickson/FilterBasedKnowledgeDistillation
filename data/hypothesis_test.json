@@ -1,0 +1,302 @@
+{
+  "save_feature_all_statstosave_feature_all_stats": {
+    "reject": false,
+    "differences": [0.0, 0.0, 0.0, 0.0, 0.0],
+    "statistic": 12.5,
+    "p_value": 1.0
+  },
+  "save_feature_all_statstosave_feature_last_stats": {
+    "reject": false,
+    "differences": [
+      -0.28000000000000114, 0.4000000000000057, -0.5, -0.9699999999999989,
+      0.8199999999999932
+    ],
+    "statistic": 10.0,
+    "p_value": 0.6904761904761905
+  },
+  "save_feature_all_statstosave_filter_all_stats": {
+    "reject": false,
+    "differences": [
+      -0.20000000000000284, -0.14000000000000767, -0.15000000000000568,
+      0.3499999999999943, 0.6199999999999903
+    ],
+    "statistic": 10.0,
+    "p_value": 0.6904761904761905
+  },
+  "save_feature_all_statstosave_filter_last_stats": {
+    "reject": false,
+    "differences": [
+      -0.20000000000000284, -0.14000000000000767, -0.15000000000000568,
+      0.3499999999999943, 0.6199999999999903
+    ],
+    "statistic": 10.0,
+    "p_value": 0.6904761904761905
+  },
+  "save_feature_all_statstosave_resnet32_stats": {
+    "reject": true,
+    "differences": [
+      3.4399999999999977, 4.109999999999992, 4.310000000000002,
+      4.559999999999995, 5.5
+    ],
+    "statistic": 25.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_feature_all_statstosave_vanilla_stats": {
+    "reject": true,
+    "differences": [
+      1.5600000000000023, 1.5200000000000031, 1.5399999999999991,
+      1.79999999999999, 1.9299999999999926
+    ],
+    "statistic": 25.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_feature_last_statstosave_feature_all_stats": {
+    "reject": false,
+    "differences": [
+      0.28000000000000114, -0.4000000000000057, 0.5, 0.9699999999999989,
+      -0.8199999999999932
+    ],
+    "statistic": 15.0,
+    "p_value": 0.6904761904761905
+  },
+  "save_feature_last_statstosave_feature_last_stats": {
+    "reject": false,
+    "differences": [0.0, 0.0, 0.0, 0.0, 0.0],
+    "statistic": 12.5,
+    "p_value": 1.0
+  },
+  "save_feature_last_statstosave_filter_all_stats": {
+    "reject": false,
+    "differences": [
+      0.0799999999999983, -0.5400000000000134, 0.3499999999999943,
+      1.3199999999999932, -0.20000000000000284
+    ],
+    "statistic": 16.0,
+    "p_value": 0.5476190476190477
+  },
+  "save_feature_last_statstosave_filter_last_stats": {
+    "reject": false,
+    "differences": [
+      0.0799999999999983, -0.5400000000000134, 0.3499999999999943,
+      1.3199999999999932, -0.20000000000000284
+    ],
+    "statistic": 16.0,
+    "p_value": 0.5476190476190477
+  },
+  "save_feature_last_statstosave_resnet32_stats": {
+    "reject": true,
+    "differences": [
+      3.719999999999999, 3.7099999999999866, 4.810000000000002,
+      5.529999999999994, 4.680000000000007
+    ],
+    "statistic": 25.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_feature_last_statstosave_vanilla_stats": {
+    "reject": true,
+    "differences": [
+      1.8400000000000034, 1.1199999999999974, 2.039999999999999,
+      2.769999999999989, 1.1099999999999994
+    ],
+    "statistic": 25.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_filter_all_statstosave_feature_all_stats": {
+    "reject": false,
+    "differences": [
+      0.20000000000000284, 0.14000000000000767, 0.15000000000000568,
+      -0.3499999999999943, -0.6199999999999903
+    ],
+    "statistic": 15.0,
+    "p_value": 0.6904761904761905
+  },
+  "save_filter_all_statstosave_feature_last_stats": {
+    "reject": false,
+    "differences": [
+      -0.0799999999999983, 0.5400000000000134, -0.3499999999999943,
+      -1.3199999999999932, 0.20000000000000284
+    ],
+    "statistic": 9.0,
+    "p_value": 0.5476190476190477
+  },
+  "save_filter_all_statstosave_filter_all_stats": {
+    "reject": false,
+    "differences": [0.0, 0.0, 0.0, 0.0, 0.0],
+    "statistic": 12.5,
+    "p_value": 1.0
+  },
+  "save_filter_all_statstosave_filter_last_stats": {
+    "reject": false,
+    "differences": [0.0, 0.0, 0.0, 0.0, 0.0],
+    "statistic": 12.5,
+    "p_value": 1.0
+  },
+  "save_filter_all_statstosave_resnet32_stats": {
+    "reject": true,
+    "differences": [
+      3.6400000000000006, 4.25, 4.460000000000008, 4.210000000000001,
+      4.88000000000001
+    ],
+    "statistic": 25.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_filter_all_statstosave_vanilla_stats": {
+    "reject": true,
+    "differences": [
+      1.7600000000000051, 1.6600000000000108, 1.6900000000000048,
+      1.4499999999999957, 1.3100000000000023
+    ],
+    "statistic": 25.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_filter_last_statstosave_feature_all_stats": {
+    "reject": false,
+    "differences": [
+      0.20000000000000284, 0.14000000000000767, 0.15000000000000568,
+      -0.3499999999999943, -0.6199999999999903
+    ],
+    "statistic": 15.0,
+    "p_value": 0.6904761904761905
+  },
+  "save_filter_last_statstosave_feature_last_stats": {
+    "reject": false,
+    "differences": [
+      -0.0799999999999983, 0.5400000000000134, -0.3499999999999943,
+      -1.3199999999999932, 0.20000000000000284
+    ],
+    "statistic": 9.0,
+    "p_value": 0.5476190476190477
+  },
+  "save_filter_last_statstosave_filter_all_stats": {
+    "reject": false,
+    "differences": [0.0, 0.0, 0.0, 0.0, 0.0],
+    "statistic": 12.5,
+    "p_value": 1.0
+  },
+  "save_filter_last_statstosave_filter_last_stats": {
+    "reject": false,
+    "differences": [0.0, 0.0, 0.0, 0.0, 0.0],
+    "statistic": 12.5,
+    "p_value": 1.0
+  },
+  "save_filter_last_statstosave_resnet32_stats": {
+    "reject": true,
+    "differences": [
+      3.6400000000000006, 4.25, 4.460000000000008, 4.210000000000001,
+      4.88000000000001
+    ],
+    "statistic": 25.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_filter_last_statstosave_vanilla_stats": {
+    "reject": true,
+    "differences": [
+      1.7600000000000051, 1.6600000000000108, 1.6900000000000048,
+      1.4499999999999957, 1.3100000000000023
+    ],
+    "statistic": 25.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_resnet32_statstosave_feature_all_stats": {
+    "reject": true,
+    "differences": [
+      -3.4399999999999977, -4.109999999999992, -4.310000000000002,
+      -4.559999999999995, -5.5
+    ],
+    "statistic": 0.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_resnet32_statstosave_feature_last_stats": {
+    "reject": true,
+    "differences": [
+      -3.719999999999999, -3.7099999999999866, -4.810000000000002,
+      -5.529999999999994, -4.680000000000007
+    ],
+    "statistic": 0.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_resnet32_statstosave_filter_all_stats": {
+    "reject": true,
+    "differences": [
+      -3.6400000000000006, -4.25, -4.460000000000008, -4.210000000000001,
+      -4.88000000000001
+    ],
+    "statistic": 0.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_resnet32_statstosave_filter_last_stats": {
+    "reject": true,
+    "differences": [
+      -3.6400000000000006, -4.25, -4.460000000000008, -4.210000000000001,
+      -4.88000000000001
+    ],
+    "statistic": 0.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_resnet32_statstosave_resnet32_stats": {
+    "reject": false,
+    "differences": [0.0, 0.0, 0.0, 0.0, 0.0],
+    "statistic": 12.5,
+    "p_value": 1.0
+  },
+  "save_resnet32_statstosave_vanilla_stats": {
+    "reject": true,
+    "differences": [
+      -1.8799999999999955, -2.589999999999989, -2.770000000000003,
+      -2.760000000000005, -3.5700000000000074
+    ],
+    "statistic": 0.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_vanilla_statstosave_feature_all_stats": {
+    "reject": true,
+    "differences": [
+      -1.5600000000000023, -1.5200000000000031, -1.5399999999999991,
+      -1.79999999999999, -1.9299999999999926
+    ],
+    "statistic": 0.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_vanilla_statstosave_feature_last_stats": {
+    "reject": true,
+    "differences": [
+      -1.8400000000000034, -1.1199999999999974, -2.039999999999999,
+      -2.769999999999989, -1.1099999999999994
+    ],
+    "statistic": 0.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_vanilla_statstosave_filter_all_stats": {
+    "reject": true,
+    "differences": [
+      -1.7600000000000051, -1.6600000000000108, -1.6900000000000048,
+      -1.4499999999999957, -1.3100000000000023
+    ],
+    "statistic": 0.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_vanilla_statstosave_filter_last_stats": {
+    "reject": true,
+    "differences": [
+      -1.7600000000000051, -1.6600000000000108, -1.6900000000000048,
+      -1.4499999999999957, -1.3100000000000023
+    ],
+    "statistic": 0.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_vanilla_statstosave_resnet32_stats": {
+    "reject": true,
+    "differences": [
+      1.8799999999999955, 2.589999999999989, 2.770000000000003,
+      2.760000000000005, 3.5700000000000074
+    ],
+    "statistic": 25.0,
+    "p_value": 0.007936507936507936
+  },
+  "save_vanilla_statstosave_vanilla_stats": {
+    "reject": false,
+    "differences": [0.0, 0.0, 0.0, 0.0, 0.0],
+    "statistic": 12.5,
+    "p_value": 1.0
+  }
+}
